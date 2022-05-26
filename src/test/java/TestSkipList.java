@@ -13,7 +13,6 @@ public class TestSkipList {
         skipList.skipInsert(15);
         skipList.skipInsert(17);
         skipList.skipInsert(4);
-        skipList.printSkipList();
     }
 
 
